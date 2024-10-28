@@ -15,10 +15,11 @@ elif akhir > 40:
  huruf = "D"
 else:
  huruf = "E"
- print("\nNama:",nama)
- print("Nilai UTS :",uts)
- print("Nilai UAS :",uas)
- print("Nilai Tugas :",tugas)
- print("Nilai Akhir :",akhir)
- print("\nNilai Huruf :",huruf)
- print("Keterangan :",keterangan)
+ 
+print("\nNama:",nama)
+print("Nilai UTS :",uts)
+print("Nilai UAS :",uas)
+print("Nilai Tugas :",tugas)
+print("Nilai Akhir :",akhir)
+print("\nNilai Huruf :",huruf)
+print("Keterangan :",keterangan)
